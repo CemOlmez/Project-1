@@ -2,25 +2,24 @@
 
 <h2>About the project</h2>
 
-<p>This is a minimalist e-commerce website built with React and CSS. This
-website features a modern and intuitive design, with easy-to-use navigation and a
-simple shopping experience that puts the focus on the products.</p>
+<p>loram ipsam</p>
 
 <p>Credits for the design goes to <a href='https://github.com/Abderraouf-Rahmani'>Abderraouf</a></p>
 
-👉 Live Demo: <a href='https://minimalist-e-commerce.vercel.app/'>Ecommerce Demo</a>
+👉 Live Demo: <a href=''>Portfolio</a>
 
 <h3>Build with:</h3>
 
-» Vanilla CSS <br>
-» React JS
+» HTML <br>
+» CSS <br>
+» Javascript
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
 <h3 align='center'>Home Page 🏡</h3>
 
 <div align='center'>
-<img src='https://user-images.githubusercontent.com/105128267/213868640-e3421f0a-bb10-4352-82a1-1bda4df821e9.png'/>
+<img src=''/>
 </div>
 
 <br><br>
