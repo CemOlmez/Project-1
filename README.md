@@ -12,7 +12,6 @@
 
 » HTML <br>
 » CSS <br>
-» Javascript
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
