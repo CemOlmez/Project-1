@@ -4,7 +4,7 @@
 
 <p>loram ipsam</p>
 
-<p>Credits for the design goes to <a href=''></a></p>
+<p>Credits for the design goes to <a href='https://www.figma.com/@kryston'></a> **Kryston Schwarze**</p>
 
 👉 Live Demo: <a href=''>Portfolio</a>
 
