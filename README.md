@@ -4,9 +4,9 @@
 
 <p>loram ipsam</p>
 
-<p>Credits for the design goes to <a href='https://www.figma.com/@kryston'></a> **Kryston Schwarze**</p>
+<p>Credits for the design goes to <a href='https://www.figma.com/@kryston'> **Kryston Schwarze** - Figma </a> </p>
 
-👉 Live Demo: <a href=''>Portfolio</a>
+👉 Live Demo: <a href=''>Weiss-Landing Page</a>
 
 <h3>Build with:</h3>
 
